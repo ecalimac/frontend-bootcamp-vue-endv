@@ -15,7 +15,7 @@ npm run serve
 ## run DB server
 
 ```
-in order to use Cuddly's pizza spectacular DB, in a new terminal run:
+in order to use Cuddly's pizza spectacular DB, (in a new terminal) run:
 
 json-server --watch db.json
 ```
